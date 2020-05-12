@@ -1,5 +1,5 @@
 #bandeausaison4{
-    background-image: url(../images/combat.jpg);
+    background-image: url(../img/combat.jpg);
     background-position: center;
     background-size: cover;
     margin-left: auto;
@@ -21,7 +21,8 @@
 	background: rgba(159,22,0,.6);
     padding: 10px;
     border:1px solid red;
-    color: yellow
+    color: yellow;
+    display:inline-block;
 }
 
 .col-6 {
@@ -30,6 +31,7 @@
 
 .découvrir {
 	color: white;
+	display:inline-block;
 }
 
 #bandeausaison4 p{
@@ -42,17 +44,14 @@
 }
 
 .ensavoir {
-	color: yellow
-	background: black;
-    padding: 10px;
-    border:1px solid red;
-    margin-left: 10px;
-}
-
-.ensavoir {
     color : yellow;
 	background: black;
 	padding: 10px;
 	border:1px solid yellow;
 	margin-left: 10px;
+	display:inline-block;
 }
+
+#bandeausaison4 .row h4{
+    margin-right: 20px;
+    float: left;}
