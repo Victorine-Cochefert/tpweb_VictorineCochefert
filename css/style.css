@@ -75,3 +75,10 @@ h2 {
     color : white;
     float : right;
 }
+
+.vignette {
+    padding-top: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
