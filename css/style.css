@@ -1,5 +1,5 @@
 #bandeausaison4{
-    background-image: url(../img/combat.jpg);
+    background-image: url(../images/combat.jpg);
     background-position: center;
     background-size: cover;
     margin-left: auto;
@@ -55,3 +55,23 @@
 #bandeausaison4 .row h4{
     margin-right: 20px;
     float: left;}
+
+.vignettes {
+    height: 50px; 
+    width: 50px;
+}
+
+h3 {
+    font-size: 12px;
+    color : grey;
+}
+
+h2 {
+    font-size: 15px;
+    color : #FC9410;
+}
+
+.icone {
+    color : white;
+    float : right;
+}
